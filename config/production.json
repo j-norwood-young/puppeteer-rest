@@ -1,0 +1,14 @@
+{
+	"server": {
+		"port": 4200
+	},
+	"puppeteer": {
+		"ignoreHTTPSErrors": true
+	},
+	"users": [
+		{
+			"username": "username",
+			"password": "password"
+		}
+	]
+}

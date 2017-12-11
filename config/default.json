@@ -3,6 +3,8 @@
 		"port": 4200
 	},
 	"puppeteer": {
-		"ignoreHTTPSErrors": true
-	}
+		"ignoreHTTPSErrors": true,
+		"timeout": 60000
+	},
+	"loadTypes": ["document"]
 }
