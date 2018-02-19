@@ -17,9 +17,12 @@
   "author": "Jason Norwood-Young",
   "license": "MIT",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "config": "^1.28.1",
     "md5": "^2.2.1",
     "puppeteer": "^0.13.0",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5",
     "restify": "^6.3.4"
   },
   "devDependencies": {
